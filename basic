@@ -1,0 +1,8 @@
+main()
+{
+  printf("Hello_World");
+}
+
+Ouptput
+---------------
+Hello_World
